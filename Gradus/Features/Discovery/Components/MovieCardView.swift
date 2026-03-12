@@ -2,6 +2,7 @@ import SwiftUI
 
 struct MovieCardView: View {
     let movie: Movie
+    let isWishlisted: Bool
 
     var body: some View {
         VStack(alignment: .leading, spacing: 12) {
@@ -33,6 +34,20 @@ struct MovieCardView: View {
                 .fill(Color(.systemBackground))
                 .shadow(color: Color.black.opacity(0.12), radius: 10, x: 0, y: 6)
         )
+        .overlay(alignment: .topTrailing) {
+            if isWishlisted {
+                Image(systemName: "star.fill")
+                    .font(.caption.weight(.semibold))
+                    .foregroundStyle(.yellow)
+                    .padding(8)
+                    .background(
+                        Circle()
+                            .fill(Color(.systemBackground))
+                            .shadow(color: Color.black.opacity(0.2), radius: 4, x: 0, y: 2)
+                    )
+                    .padding(10)
+            }
+        }
     }
 
     private var ratingText: String {
@@ -53,7 +68,8 @@ struct MovieCardView: View {
                     case .success(let image):
                         image
                             .resizable()
-                            .scaledToFill()
+                            .scaledToFit()
+                            .padding(8)
                     case .failure:
                         posterPlaceholder
                     @unknown default:
@@ -64,7 +80,7 @@ struct MovieCardView: View {
                 posterPlaceholder
             }
         }
-        .frame(height: 240)
+        .aspectRatio(2.0 / 3.0, contentMode: .fit)
         .clipShape(RoundedRectangle(cornerRadius: 16, style: .continuous))
     }
 

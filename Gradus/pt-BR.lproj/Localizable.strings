@@ -1,0 +1,110 @@
+"discovery.no_movies" = "Nenhum filme ainda";
+"discovery.rating_format" = "★ %.1f";
+"discovery.no_movie_selected" = "Nenhum filme selecionado";
+
+"settings.title" = "Configurações";
+"settings.profile" = "Perfil";
+"settings.language_section" = "Idioma";
+"settings.app_language" = "Idioma do app";
+"settings.history" = "Histórico";
+"settings.wish_list" = "Lista de desejos";
+"settings.nice_now" = "Legal agora";
+"settings.not_nice_now" = "Não agora";
+
+"common.empty" = "Vazio";
+
+"guideline.not_nice" = "Não agora";
+"guideline.details" = "Detalhes";
+"guideline.wish_list" = "Lista de desejos";
+"guideline.nice" = "Legal";
+
+"feedback.nice" = "Legal";
+"feedback.not_nice" = "Não agora";
+"feedback.wishlisted" = "Na lista";
+
+"profile.title" = "Perfil";
+"profile.stable_taste" = "Gosto estável";
+"profile.preferred_genres" = "Gêneros preferidos";
+"profile.avoid_genres" = "Evitar gêneros";
+"profile.language_affinity" = "Idiomas preferidos";
+"profile.avoid_languages" = "Evitar idiomas";
+"profile.pacing" = "Ritmo";
+"profile.complexity" = "Complexidade";
+"profile.tone_preferences" = "Preferência de tom";
+"profile.narrative_styles" = "Estilo narrativo";
+"profile.situational_context" = "Contexto do momento";
+"profile.current_mood" = "Humor atual";
+"profile.watch_context" = "Com quem vai assistir";
+"profile.available_time_format" = "Tempo disponível: %d min";
+"profile.content_boundaries" = "Limites de conteúdo";
+"profile.gore_sensitivity" = "Sensibilidade a gore/terror";
+"profile.avoid_very_long_movies" = "Evitar filmes muito longos";
+"profile.max_runtime_format" = "Duração máxima: %d min";
+"profile.explicit_favorites" = "Favoritos explícitos";
+"profile.favorite_movies" = "Filmes favoritos";
+"profile.favorite_actors" = "Atores favoritos";
+"profile.add_actor" = "Adicionar ator";
+"profile.add_action" = "Adicionar";
+"profile.favorite_directors" = "Diretores favoritos";
+"profile.add_director" = "Adicionar diretor";
+
+"genre.action" = "Ação";
+"genre.adventure" = "Aventura";
+"genre.animation" = "Animação";
+"genre.comedy" = "Comédia";
+"genre.crime" = "Crime";
+"genre.drama" = "Drama";
+"genre.fantasy" = "Fantasia";
+"genre.horror" = "Terror";
+"genre.romance" = "Romance";
+"genre.science_fiction" = "Ficção científica";
+"genre.thriller" = "Suspense";
+
+"tone.feel_good" = "Leve";
+"tone.dark" = "Sombrio";
+"tone.mind_bending" = "Que desafia a mente";
+"tone.emotional" = "Emocional";
+"tone.tense" = "Tenso";
+"tone.uplifting" = "Inspirador";
+
+"narrative.linear" = "Linear";
+"narrative.nonlinear" = "Não linear";
+"narrative.slow_burn" = "Ritmo lento";
+"narrative.twisty" = "Cheio de reviravoltas";
+"narrative.contemplative" = "Contemplativo";
+
+"pacing.slow" = "Lento";
+"pacing.balanced" = "Equilibrado";
+"pacing.fast" = "Rápido";
+
+"complexity.simple" = "Simples";
+"complexity.medium" = "Média";
+"complexity.complex" = "Complexa";
+
+"mood.feel_good" = "Leve";
+"mood.dark" = "Sombrio";
+"mood.mind_bending" = "Que desafia a mente";
+"mood.emotional" = "Emocional";
+"mood.neutral" = "Neutro";
+
+"context.alone" = "Sozinho";
+"context.partner" = "Parceiro(a)";
+"context.friends" = "Amigos";
+"context.family" = "Família";
+
+"language.english" = "Inglês";
+"language.portuguese" = "Português";
+"language.spanish" = "Espanhol";
+"language.french" = "Francês";
+"language.german" = "Alemão";
+"language.italian" = "Italiano";
+"language.japanese" = "Japonês";
+"language.korean" = "Coreano";
+
+"gore.low" = "Baixa";
+"gore.medium" = "Média";
+"gore.high" = "Alta";
+
+"language.system" = "Sistema";
+"language.english_us" = "English (US)";
+"language.portuguese_br" = "Português (Brasil)";

@@ -1,0 +1,110 @@
+"discovery.no_movies" = "No movies yet";
+"discovery.rating_format" = "★ %.1f";
+"discovery.no_movie_selected" = "No movie selected";
+
+"settings.title" = "Settings";
+"settings.profile" = "Profile";
+"settings.language_section" = "Language";
+"settings.app_language" = "App Language";
+"settings.history" = "History";
+"settings.wish_list" = "Wish List";
+"settings.nice_now" = "Nice (Now)";
+"settings.not_nice_now" = "Not Nice (Now)";
+
+"common.empty" = "Empty";
+
+"guideline.not_nice" = "Not nice";
+"guideline.details" = "Details";
+"guideline.wish_list" = "Wish list";
+"guideline.nice" = "Nice";
+
+"feedback.nice" = "Nice";
+"feedback.not_nice" = "Not Nice";
+"feedback.wishlisted" = "Wishlisted";
+
+"profile.title" = "Profile";
+"profile.stable_taste" = "Stable Taste";
+"profile.preferred_genres" = "Preferred Genres";
+"profile.avoid_genres" = "Avoid Genres";
+"profile.language_affinity" = "Language Affinity";
+"profile.avoid_languages" = "Avoid Languages";
+"profile.pacing" = "Pacing";
+"profile.complexity" = "Complexity";
+"profile.tone_preferences" = "Tone Preferences";
+"profile.narrative_styles" = "Narrative Styles";
+"profile.situational_context" = "Situational Context";
+"profile.current_mood" = "Current Mood";
+"profile.watch_context" = "Watch Context";
+"profile.available_time_format" = "Available Time: %d min";
+"profile.content_boundaries" = "Content Boundaries";
+"profile.gore_sensitivity" = "Gore / Horror Sensitivity";
+"profile.avoid_very_long_movies" = "Avoid Very Long Movies";
+"profile.max_runtime_format" = "Max Runtime: %d min";
+"profile.explicit_favorites" = "Explicit Favorites";
+"profile.favorite_movies" = "Favorite Movies";
+"profile.favorite_actors" = "Favorite Actors";
+"profile.add_actor" = "Add actor";
+"profile.add_action" = "Add";
+"profile.favorite_directors" = "Favorite Directors";
+"profile.add_director" = "Add director";
+
+"genre.action" = "Action";
+"genre.adventure" = "Adventure";
+"genre.animation" = "Animation";
+"genre.comedy" = "Comedy";
+"genre.crime" = "Crime";
+"genre.drama" = "Drama";
+"genre.fantasy" = "Fantasy";
+"genre.horror" = "Horror";
+"genre.romance" = "Romance";
+"genre.science_fiction" = "Science Fiction";
+"genre.thriller" = "Thriller";
+
+"tone.feel_good" = "Feel Good";
+"tone.dark" = "Dark";
+"tone.mind_bending" = "Mind-Bending";
+"tone.emotional" = "Emotional";
+"tone.tense" = "Tense";
+"tone.uplifting" = "Uplifting";
+
+"narrative.linear" = "Linear";
+"narrative.nonlinear" = "Nonlinear";
+"narrative.slow_burn" = "Slow Burn";
+"narrative.twisty" = "Twisty";
+"narrative.contemplative" = "Contemplative";
+
+"pacing.slow" = "Slow";
+"pacing.balanced" = "Balanced";
+"pacing.fast" = "Fast";
+
+"complexity.simple" = "Simple";
+"complexity.medium" = "Medium";
+"complexity.complex" = "Complex";
+
+"mood.feel_good" = "Feel Good";
+"mood.dark" = "Dark";
+"mood.mind_bending" = "Mind-Bending";
+"mood.emotional" = "Emotional";
+"mood.neutral" = "Neutral";
+
+"context.alone" = "Alone";
+"context.partner" = "Partner";
+"context.friends" = "Friends";
+"context.family" = "Family";
+
+"language.english" = "English";
+"language.portuguese" = "Portuguese";
+"language.spanish" = "Spanish";
+"language.french" = "French";
+"language.german" = "German";
+"language.italian" = "Italian";
+"language.japanese" = "Japanese";
+"language.korean" = "Korean";
+
+"gore.low" = "Low";
+"gore.medium" = "Medium";
+"gore.high" = "High";
+
+"language.system" = "System";
+"language.english_us" = "English (US)";
+"language.portuguese_br" = "Português (Brasil)";
